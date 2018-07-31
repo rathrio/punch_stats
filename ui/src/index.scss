@@ -1,0 +1,17 @@
+$color-background: #282a36;
+$color-foreground: #f8f8f2;
+$color-selection: #44475a;
+$color-comment: #6272a4;
+$color-cyan: #8be9fd;
+$color-green: #50fa7b;
+$color-orange: #ffb86c;
+$color-pink: #ff79c6;
+$color-purple: #bd93f9;
+$color-red: #ff5555;
+$color-yellow: #f1fa8c;
+
+body {
+  background-color: $color-background;
+  color: $color-foreground;
+  font-family: 'Courier New', Courier, monospace;
+}
